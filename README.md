@@ -25,11 +25,17 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi newsletter. Aquí puedes encontrar las ediciones más recientes:
 
 ### 2025
-
+| 📌 | 📖 Artículo | 📅 Fecha |
+|----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D5612AQE_-RV6bhH1Bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1671543067243?e=1746662400&v=beta&t=8l0Fi2H2bnpNjeE7uZbWzw3daBheIhhNHFtH8izKcpo" width="120" height="100"> | [Java. Las olas de ayer, y las de mañana](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/) | December 20, 2022 |
 ### 2024
-
+| 📌 | 📖 Artículo | 📅 Fecha |
+|----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D5612AQE_-RV6bhH1Bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1671543067243?e=1746662400&v=beta&t=8l0Fi2H2bnpNjeE7uZbWzw3daBheIhhNHFtH8izKcpo" width="120" height="100"> | [Java. Las olas de ayer, y las de mañana](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/) | December 20, 2022 |
 ### 2023
-
+| 📌 | 📖 Artículo | 📅 Fecha |
+|----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D5612AQGGZaAa2mpXkQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1671579045571?e=1746662400&v=beta&t=r-UgQoD4LsTXZHzE6SjlR4udUpTYdonFVRKWCIk6jdo" width="120" height="100"> | [Java. Migrar o no migrar.](https://www.linkedin.com/pulse/java-migrar-o-isaac-ruiz-guerra/) | January 8, 2023 |
 ### 2022
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
