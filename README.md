@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy RuGI
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software con más de 20 años de experiencia en programación Java y consultoría en TI. Actualmente, me desempeño como Senior Solution Architect en Backbase.
+Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software con más de 20 años de experiencia en programación Java y consultoría en TI. Actualmente, me desempeño como Senior Solution Architect.
 
 ## 🚀 Sobre mí
 
@@ -27,8 +27,10 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 - Año 04. 2025
 - Año 03. 2024
 - Año 02. 2023
-- Año 01. 2022 
-    - [06. Yo soy Duke. September 14, 2022]([https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/](https://www.linkedin.com/pulse/java-yo-soy-duke-isaac-ruiz-guerra/))       
+    - [08. Java. Migrar o no migrar. January 8, 2023](https://www.linkedin.com/pulse/java-migrar-o-isaac-ruiz-guerra/)  
+- Año 01. 2022
+    - [07. Java. Las olas de ayer, y las de mañana. December 20, 2022](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/)        
+    - [06. Java. Yo soy Duke. September 14, 2022](https://www.linkedin.com/pulse/java-yo-soy-duke-isaac-ruiz-guerra/)       
     - [05. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)       
     - [04. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)     
     - [03. Java, la cultura popular y JavaZone. June 15, 2022](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/)    
