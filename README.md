@@ -59,6 +59,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 
 - ** Serie de Post sobre el libro: "97 cosas que todo programador debe saber"**.
 - <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgydOwKZIm3UuxQaDF0tO5f0Ip-jJ6kQSzafSvM3kJq3caInaLLv6rG5szPzO22_dvvDHX9G5rpgLkpmHV-ZTL2Bpba2iR0l2g6fUg0x7O8dRy9XpyALbEbtmeoggHK6QeKK-xoKuYuuTg/s1600/Captura+de+pantalla+2011-10-30+a+las+10.58.28.png">
+<br/>
     - [17 de 97] [Asume la responsabilidad de tus decisiones.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
     - [16 de 97] [Faculta a los desarrolladores.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
     - [15 de 97] [Elige bien tus armas, renuncia a ellas de mala gana.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
