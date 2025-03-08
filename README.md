@@ -51,7 +51,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | <img src="https://media.licdn.com/dms/image/v2/C5612AQERZsiMV1Pp0w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1652911638102?e=1746662400&v=beta&t=-Cgg6zLVyiSCQ16Ur4eqV9_SITyZHHEBTH5NSohWywU" width="120" height="100">| [Java. 27 primaveras y las que faltan.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
 | <img src="https://media.licdn.com/dms/image/v2/C5612AQFpV7x6Mjg0-Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1652546527173?e=1746662400&v=beta&t=Y4giOjbUxI0k-o6PQDnsFX345rg2vhQgC7mvJb-CFwY" width="120" height="100">| [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
-## ✍️ Publicaciones y Visualizaciones
+## ✍️ Publicaciones
 
 - **Serie de Post sobre el libro: "97 cosas que todo programador debe saber"**.
 <br/><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgydOwKZIm3UuxQaDF0tO5f0Ip-jJ6kQSzafSvM3kJq3caInaLLv6rG5szPzO22_dvvDHX9G5rpgLkpmHV-ZTL2Bpba2iR0l2g6fUg0x7O8dRy9XpyALbEbtmeoggHK6QeKK-xoKuYuuTg/s1600/Captura+de+pantalla+2011-10-30+a+las+10.58.28.png"><br/>
@@ -78,6 +78,9 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
     - https://www.oracle.com/lad/technical-resources/articles/java/jmx-guia-perdida-parte4.html
     - https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html
     - https://www.oracle.com/lad/technical-resources/articles/java/java-management-extensions.html
+ 
+## 🎨 Visualizaciones
+- [Evolución de JEPs.](https://miro.com/app/board/uXjVLaAHzYg=/?share_link_id=13560476298) 
   
 ## 🌐 Encuéntrame en
 
