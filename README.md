@@ -74,7 +74,13 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
     - [02 de 97] [Comienza con un esqueleto funcional.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
     - [01 de 97] [Para el usuario final, la IU es el sistema.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
   
-
+- **ORACLE. Artículos dentro del portal oficial de desarrolladores de Oracle**
+| Título                                                                                                             | Enlace                                                                                                             | Fecha de publicación |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------|
+| [JMX: La guía perdida, Parte 4](https://www.oracle.com/lad/technical-resources/articles/java/jmx-guia-perdida-parte4.html) | https://www.oracle.com/lad/technical-resources/articles/java/jmx-guia-perdida-parte4.html | No disponible        |
+| [MBeans de WebLogic Server](https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html) | https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html | No disponible        |
+| [Introducción a las Extensiones de Gestión de Java (JMX)](https://www.oracle.com/lad/technical-resources/articles/java/java-management-extensions.html) | https://www.oracle.com/lad/technical-resources/articles/java/java-management-extensions.html | No disponible        |
+  
 ## 🌐 Encuéntrame en
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacruizguerra/)
