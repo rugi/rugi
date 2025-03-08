@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy RuGI
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software con más de 20 años de experiencia en programación Java y consultoría en TI. Actualmente, me desempeño como Senior Solution Architect.
+Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software con más de 20 años de experiencia en programación Java y consultoría en TI.
+He participado en proyectos principalmente relacionados al sector financiero.
+Actualmente, me desempeño como Senior Solution Architect.
 
 ## 🚀 Sobre mí
 
