@@ -14,11 +14,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 - **Bases de datos:** Relacionales y NoSQl.
 - **Certificaciones:** Oracle Certified, Cloud Developer (OCI).
 
-## ✍️ Publicaciones y Visualizaciones
-
-- **Visual Thinking:** Me apasiona representar conceptos complejos de manera visual. Puedes ver algunas de mis ilustraciones en mis publicaciones de LinkedIn.
-
-  ![Visualización del sonido](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 📬 Newsletter
 
@@ -56,10 +51,16 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | <img src="https://media.licdn.com/dms/image/v2/C5612AQERZsiMV1Pp0w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1652911638102?e=1746662400&v=beta&t=-Cgg6zLVyiSCQ16Ur4eqV9_SITyZHHEBTH5NSohWywU" width="120" height="100">| [Java. 27 primaveras y las que faltan.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
 | <img src="https://media.licdn.com/dms/image/v2/C5612AQFpV7x6Mjg0-Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1652546527173?e=1746662400&v=beta&t=Y4giOjbUxI0k-o6PQDnsFX345rg2vhQgC7mvJb-CFwY" width="120" height="100">| [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
+## ✍️ Publicaciones y Visualizaciones
+
+- **Visual Thinking:** Me apasiona representar conceptos complejos de manera visual. Puedes ver algunas de mis ilustraciones en mis publicaciones de LinkedIn.
+
+  ![Visualización del sonido](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacruizguerra/)
+[![X.com]](https://x.com/rugi)
 
 ## 📈 Estadísticas de GitHub
 
