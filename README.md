@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Isaac Ruiz Guerra
+# 👋 ¡Hola! Soy RuGI
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software con más de 20 años de experiencia en programación Java y consultoría en TI. Actualmente, me desempeño como Senior Solution Architect en Backbase.
 
@@ -10,9 +10,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Java, Elixir, Erlang.
-- **Bases de datos:** Neo4j.
-- **Certificaciones:** Oracle Certified, Cloud Developer.
+- **Lenguajes:** Java, Elixir, Go, Python.
+- **Bases de datos:** Relacionales y NoSQl.
+- **Certificaciones:** Oracle Certified, Cloud Developer (OCI).
 
 ## ✍️ Publicaciones y Visualizaciones
 
@@ -24,6 +24,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi newsletter. Aquí puedes encontrar las ediciones más recientes:
 
+- Año 03
+- Año 02
+- Año 01
 - [Edición 1: Título de la edición](#)
 - [Edición 2: Título de la edición](#)
 - [Edición 3: Título de la edición](#)
