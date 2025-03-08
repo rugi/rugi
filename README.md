@@ -24,12 +24,11 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi newsletter. Aquí puedes encontrar las ediciones más recientes:
 
-- Año 03
-- Año 02
-- Año 01
-- [Edición 1: Título de la edición](#)
-- [Edición 2: Título de la edición](#)
-- [Edición 3: Título de la edición](#)
+- Año 04. 2025
+- Año 03. 2024
+- Año 02. 2023
+- Año 01. 2022
+    - [01. Java. Mayo y sus eventos. May 14, 2022](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/)
 
 ## 🌐 Encuéntrame en
 
