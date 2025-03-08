@@ -24,18 +24,19 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador de software co
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi newsletter. Aquí puedes encontrar las ediciones más recientes:
 
-- Año 04. 2025
-- Año 03. 2024
-- Año 02. 2023
-    - [08. Java. Migrar o no migrar. January 8, 2023](https://www.linkedin.com/pulse/java-migrar-o-isaac-ruiz-guerra/)  
-- Año 01. 2022
-    - [07. Java. Las olas de ayer, y las de mañana. December 20, 2022](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/)        
-    - [06. Java. Yo soy Duke. September 14, 2022](https://www.linkedin.com/pulse/java-yo-soy-duke-isaac-ruiz-guerra/)       
-    - [05. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)       
-    - [04. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)     
-    - [03. Java, la cultura popular y JavaZone. June 15, 2022](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/)    
-    - [02. Java. 27 primaveras y las que faltan. May 29, 2022](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/)   
-    - [01. Java. Mayo y sus eventos. May 14, 2022](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/)
+## 📬 Newsletter
+
+Aquí puedes encontrar mis últimas publicaciones sobre Java:
+
+| 📌 | 📖 Artículo | 📅 Fecha |
+|----|-----------|---------|
+| ![img](https://via.placeholder.com/50) | [Java. Las olas de ayer, y las de mañana](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/) | December 20, 2022 |
+| ![img](https://via.placeholder.com/50) | [Java. Yo soy Duke](https://www.linkedin.com/pulse/java-yo-soy-duke-isaac-ruiz-guerra/) | September 14, 2022 |
+| ![img](https://via.placeholder.com/50) | [Java; No todo es backend. JavaFX](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/) | July 5, 2022 |
+| ![img](https://via.placeholder.com/50) | [Java, la cultura popular y JavaZone](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/) | June 15, 2022 |
+| ![img](https://via.placeholder.com/50) | [Java. 27 primaveras y las que faltan](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
+| ![img](https://via.placeholder.com/50) | [Java. Mayo y sus eventos](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
+
 
 ## 🌐 Encuéntrame en
 
