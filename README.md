@@ -27,7 +27,9 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 - Año 04. 2025
 - Año 03. 2024
 - Año 02. 2023
-- Año 01. 2022
+- Año 01. 2022 
+    - [06. Yo soy Duke. September 14, 2022]([https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/](https://www.linkedin.com/pulse/java-yo-soy-duke-isaac-ruiz-guerra/))       
+    - [05. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)       
     - [04. Java; No todo es backend. JavaFX. July 5, 2022](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/)     
     - [03. Java, la cultura popular y JavaZone. June 15, 2022](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/)    
     - [02. Java. 27 primaveras y las que faltan. May 29, 2022](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/)   
