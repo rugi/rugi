@@ -31,7 +31,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 ### 2024
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
-| <img src="https://media.licdn.com/dms/image/v2/D5612AQE_-RV6bhH1Bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1671543067243?e=1746662400&v=beta&t=8l0Fi2H2bnpNjeE7uZbWzw3daBheIhhNHFtH8izKcpo" width="120" height="100"> | [Java. Las olas de ayer, y las de mañana](https://www.linkedin.com/pulse/java-las-olas-de-ayer-y-ma%C3%B1ana-isaac-ruiz-guerra/) | December 20, 2022 |
+| <img src="https://media.licdn.com/dms/image/v2/D4E12AQHE4-ZeiO2ymw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706119513440?e=1746662400&v=beta&t=FcbOUI7t2LdNqg5-6ltLt1CqMxxD1PhTQgGv7Rb3Yb0" width="120" height="100"> | [¿Quo vadis, Duke?.](https://www.linkedin.com/pulse/quo-vadis-duke-isaac-ruiz-guerra-8sdpe/) | January 24, 2024 |
 ### 2023
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
