@@ -35,6 +35,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 ### 2023
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D5612AQFkjJlYfByfjA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678683736135?e=1746662400&v=beta&t=HQ8xHbCiaSl7N2ef78DmPawp22Xfruo2oRfpGv173qc" width="120" height="100"> | [Java. Native compilation.](https://www.linkedin.com/pulse/java-native-compilation-isaac-ruiz-guerra/) | April 19, 2023 |
 | <img src="https://media.licdn.com/dms/image/v2/D5612AQGGZaAa2mpXkQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1671579045571?e=1746662400&v=beta&t=r-UgQoD4LsTXZHzE6SjlR4udUpTYdonFVRKWCIk6jdo" width="120" height="100"> | [Java. Migrar o no migrar.](https://www.linkedin.com/pulse/java-migrar-o-isaac-ruiz-guerra/) | January 8, 2023 |
 ### 2022
 | 📌 | 📖 Artículo | 📅 Fecha |
