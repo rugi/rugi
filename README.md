@@ -57,6 +57,25 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 
   ![Visualización del sonido](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+- ** Serie de Post sobre el libro: "97 cosas que todo programador debe saber".
+    - [17 de 97] [Asume la responsabilidad de tus decisiones.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [16 de 97] [Faculta a los desarrolladores.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [15 de 97] [Elige bien tus armas, renuncia a ellas de mala gana.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [14 de 97] [Una línea de código funcional equivale a 500 de especificaciones.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [13 de 97] [Hacer commit y correr, es un crimen.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [12 de 97] [Evita las buenas ideas.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [11 de 97] [También tienes que saber de hardware.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [10 de 97] [Comparte tus conocimientos y experiencias.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [09 de 97] [Aprende de los arquitectos tradicionales.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [08 de 97] [Programar es diseñar.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [07 de 97] [Aprende un nuevo lenguaje.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [06 de 97] [Patronitis.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [05 de 97] [Integrar Continuamente.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [04 de 97] [Lo Perfecto es enemigo de lo suficiente.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [03 de 97] [Controla los datos, no sólo el código.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [02 de 97] [Comienza con un esqueleto funcional.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+  
+
 ## 🌐 Encuéntrame en
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacruizguerra/)
