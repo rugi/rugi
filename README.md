@@ -14,7 +14,7 @@ Actualmente, me desempeño como Senior Solution Architect.
 
 - **Lenguajes:** Java, Elixir, Go, Python.
 - **Bases de datos:** Relacionales y NoSQl.
-- **Certificaciones:** Oracle Certified, Cloud Developer (OCI).
+- **Certificaciones:** Oracle Certified, Cloud Developer (OCI), más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
 
 
 ## 📬 Newsletter
