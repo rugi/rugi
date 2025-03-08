@@ -72,7 +72,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
     - [04 de 97] [Lo Perfecto es enemigo de lo suficiente.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
     - [03 de 97] [Controla los datos, no sólo el código.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
     - [02 de 97] [Comienza con un esqueleto funcional.](https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
-    - [01 de 97] Para el usuario final, la IU es el sistema. (https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
+    - [01 de 97] [Para el usuario final, la IU es el sistema.] (https://xhubacubi.blogspot.com/2011/10/97-cosas-primera-entrega-2009-2011.html)
   
 
 ## 🌐 Encuéntrame en
