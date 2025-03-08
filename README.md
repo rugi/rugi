@@ -35,7 +35,7 @@ Aquí puedes encontrar mis últimas publicaciones sobre Java:
 | ![img](https://via.placeholder.com/50) | [Java; No todo es backend. JavaFX](https://www.linkedin.com/pulse/java-todo-es-backend-javafx-isaac-ruiz-guerra/) | July 5, 2022 |
 | ![img](https://via.placeholder.com/50) | [Java, la cultura popular y JavaZone](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/) | June 15, 2022 |
 | ![img](https://via.placeholder.com/50) | [Java. 27 primaveras y las que faltan](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
-| ![img](https://via.placeholder.com/50) | [Java. Mayo y sus eventos](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
+| ![img width="120"]([https://via.placeholder.com/50](https://media.licdn.com/dms/image/v2/C5612AQFpV7x6Mjg0-Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1652546527173?e=1746662400&v=beta&t=Y4giOjbUxI0k-o6PQDnsFX345rg2vhQgC7mvJb-CFwY)) | [Java. Mayo y sus eventos](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
 
 ## 🌐 Encuéntrame en
