@@ -8,7 +8,7 @@ Actualmente, me desempeño como Senior Solution Architect.
 
 - 💻 **Especialidad:** Programación en Java y arquitecturas de soluciones.
 - 🌐 **Experiencia internacional:** He trabajado en diversos proyectos globales, aportando soluciones innovadoras y eficientes.
-- 🎓 **Educación:** Graduado de la Universitat Oberta de Catalunya.
+- 🎓 **Educación:** Egresado del Instituto Tecnológico del istmo, con una especialidad en la Universitat Oberta de Catalunya.
 
 ## 🛠️ Tecnologías y Herramientas
 
