@@ -17,6 +17,7 @@ Actualmente, me desempeño como Solution Architect.
 - **Certificaciones:** Oracle Certified, Cloud Developer (OCI), más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
 
 ## 📢 Próximas conferencias:
+### 2025
 - "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/)
 
 ## 📬 Newsletter
