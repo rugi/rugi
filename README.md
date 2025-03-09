@@ -23,7 +23,7 @@ Actualmente, me desempeño como Solution Architect.
 
 ## 📬 Newsletter
 
-Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi newsletter. Aquí puedes encontrar las ediciones más recientes:
+Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi [newsletter](https://www.linkedin.com/newsletters/6931281718834335744/). Aquí puedes encontrar las ediciones más recientes:
 
 ### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
