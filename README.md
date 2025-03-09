@@ -19,7 +19,7 @@ Actualmente, me desempeño como Solution Architect.
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
 - Marzo.
-    - "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/)
+    - "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/) :mexico:
 
 ## 📬 Newsletter
 
