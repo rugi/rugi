@@ -16,6 +16,8 @@ Actualmente, me desempeño como Solution Architect.
 - **Bases de datos:** Relacionales y NoSQL.
 - **Certificaciones:** Oracle Certified, Cloud Developer (OCI), más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
 
+## 📢 Próximas conferencias:
+- OpenTelemetry para gente ocupada en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/)
 
 ## 📬 Newsletter
 
