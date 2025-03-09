@@ -86,7 +86,8 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
     - https://www.oracle.com/lad/technical-resources/articles/java/java-management-extensions.html
  
 ## 🎨 Visualizaciones
-- [Evolución de JEPs.](https://miro.com/app/board/uXjVLaAHzYg=/?share_link_id=13560476298) 
+- [Evolución de JEPs.](https://miro.com/app/board/uXjVLaAHzYg=/?share_link_id=13560476298)
+    - Una visualización para conocer como han ido evolucionando los JEPs desde java 11, una manera más visual par conocer como se van integrando (o rechanzando) de alguna versión del lenguaje.
   
 ## 🌐 Encuéntrame en
 
