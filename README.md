@@ -30,6 +30,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 ### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D4E12AQGy23s0dqyL3g/article-cover_image-shrink_720_1280/B4EZVrr19YHMAQ-/0/1741268417258?e=1747267200&v=beta&t=9vsGGUUK18JcC-VLHErZb4pxYR6UAL3LIj7hzZAmFbw" width="120"> | [Records. La elegancia de lo sencillo (o la sencillez de la elegancia).](https://www.linkedin.com/pulse/records-la-elegancia-de-lo-sencillo-o-sencillez-isaac-ruiz-guerra-wujue/) | March 10, 2025 |
 | <img src="https://media.licdn.com/dms/image/v2/D4E12AQGY4MvFOwOJ7Q/article-cover_image-shrink_720_1280/B4EZVcEGTjHUAI-/0/1741006339000?e=1746662400&v=beta&t=qeF4CLuUJxmVJhtpNfGhWbMQh3HiMBnkVpfKvyeE-1s" width="120"> | [Switch. Así ha cambiado desde java 12 hasta java 24.](https://www.linkedin.com/pulse/switch-as%C3%AD-ha-cambiado-desde-java-12-hasta-24-isaac-ruiz-guerra-c8qse/) | March 4, 2025 |
 ### 2024
 | 📌 | 📖 Artículo | 📅 Fecha |
