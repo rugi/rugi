@@ -21,7 +21,7 @@ Actualmente, me desempeño como Solution Architect.
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
 - Marzo.
-    - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México.
+    - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
 
 ## 📢 Participaciones en conferencias:
 ### 2024
@@ -30,7 +30,7 @@ Actualmente, me desempeño como Solution Architect.
         - "3 JEPs que deberías conocer". Charla.
 ### 2023
 - Agosto.
-    -  [JConf Guatemala](https://guate-jug.net/jconf2023/archive.html). Cd. de Guatemala, Guatemala.
+    -  [JConf Guatemala](https://guate-jug.net/jconf2023/archive.html). Cd. de Guatemala, Guatemala  ![Guatemala](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gt.png "GT").
         - "Java y grafos. Iniciemos con Neo4". Charla.           
 
 ## 📬 Newsletter
