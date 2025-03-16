@@ -23,6 +23,12 @@ Actualmente, me desempeño como Solution Architect.
 - Marzo.
     - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México.
 
+## 📢 Participaciones en conferencias:
+### 2024
+- Octubre.
+    -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México.
+        - "3 JEPs que deberías conocer". Charla.  
+
 ## 📬 Newsletter
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi [newsletter](https://www.linkedin.com/newsletters/6931281718834335744/). Aquí puedes encontrar las ediciones más recientes:
