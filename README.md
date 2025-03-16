@@ -27,7 +27,11 @@ Actualmente, me desempeño como Solution Architect.
 ### 2024
 - Octubre.
     -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México.
-        - "3 JEPs que deberías conocer". Charla.  
+        - "3 JEPs que deberías conocer". Charla.
+### 2023
+- Agosto.
+    -  [JConf Guatemala](https://guate-jug.net/jconf2023/archive.html). Cd. de Guatemala, Guatemala.
+        - "Java y grafos. Iniciemos con Neo4". Charla.           
 
 ## 📬 Newsletter
 
