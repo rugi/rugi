@@ -26,7 +26,7 @@ Actualmente, me desempeño como Solution Architect.
 ## 📢 Participaciones en conferencias:
 ### 2024
 - Octubre.
-    -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México.
+    -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
         - "3 JEPs que deberías conocer". Charla.
 ### 2023
 - Agosto.
