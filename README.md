@@ -101,6 +101,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 ## 🎨 Visualizaciones
 - [Evolución de JEPs.](https://miro.com/app/board/uXjVLaAHzYg=/?share_link_id=13560476298)
     - Una visualización para conocer como han ido evolucionando los JEPs desde java 11, una manera más visual par conocer como se van integrando (o rechanzando) de alguna versión del lenguaje.
+        -  <img src="https://media.licdn.com/dms/image/v2/D4E12AQFm-Fqa4aAStQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1728162784918?e=1747872000&v=beta&t=crpUo7d_K2Bu2JFNwPrnXYVNKB_nWfawPCAMrxzTyfs" width="440">
   
 ## 🌐 Encuéntrame en
 
