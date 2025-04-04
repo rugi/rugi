@@ -20,10 +20,12 @@ Actualmente, me desempeño como Solution Architect.
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
-- Marzo.
-    - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
+- 2 propuestas enviadas a eventos JAVA.... estamos en espera ;)
 
 ## 📢 Participaciones en conferencias:
+### 2025
+- Marzo.
+    - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada" en [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
 ### 2024
 - Octubre.
     -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
@@ -40,6 +42,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 ### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
+| <img src="https://media.licdn.com/dms/image/v2/D4E12AQHuw4lCBxL-kw/article-cover_image-shrink_600_2000/B4EZX6M3X4HUAY-/0/1743659432905?e=1749081600&v=beta&t=SuIBc8FyJ87sZ-XuOwr7hj86GiCCXoYONl5o8Xq-wv4" width="120"> | [Virtual Threads. Preludio.](https://www.linkedin.com/pulse/virtual-threads-preludio-isaac-ruiz-guerra-mb7qf/) | April 04, 2025 |
 | <img src="https://media.licdn.com/dms/image/v2/D4E12AQHfer2aHJJlGg/article-cover_image-shrink_720_1280/B4EZXNHt3AHcAI-/0/1742903110571?e=1748476800&v=beta&t=7FrpCArbrzcj9bL0VlN_UKToh7mKF6j-jWv5Tiza2IY" width="120"> | [Scoped Values. Nada se pierde, todo en su lugar.](https://www.linkedin.com/pulse/scoped-values-nada-se-pierde-todo-en-su-lugar-isaac-ruiz-guerra-w1zre/) | March 25, 2025 |
 | <img src="https://media.licdn.com/dms/image/v2/D4E12AQHre-5g4H2r6g/article-cover_image-shrink_720_1280/B4EZWcwsZrG0AI-/0/1742091770350?e=1747872000&v=beta&t=miTUHzjK545tPmDhQ5LshM3-qYPhjO-tQxe99MsWgN4" width="120"> | [String Templates. O del porqué es bueno visitar los cementerios).](https://www.linkedin.com/pulse/string-templates-o-del-porqu%C3%A9-es-bueno-visitar-los-isaac-ruiz-guerra-iepbe/) | March 18, 2025 |
 | <img src="https://media.licdn.com/dms/image/v2/D4E12AQGy23s0dqyL3g/article-cover_image-shrink_720_1280/B4EZVrr19YHMAQ-/0/1741268417258?e=1747267200&v=beta&t=9vsGGUUK18JcC-VLHErZb4pxYR6UAL3LIj7hzZAmFbw" width="120"> | [Records. La elegancia de lo sencillo (o la sencillez de la elegancia).](https://www.linkedin.com/pulse/records-la-elegancia-de-lo-sencillo-o-sencillez-isaac-ruiz-guerra-wujue/) | March 10, 2025 |
