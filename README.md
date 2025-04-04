@@ -26,7 +26,7 @@ Actualmente, me desempeño como Solution Architect.
 ### 2025
 - Marzo.
     - [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
-    - <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/community-logo.svg" width="100"> "OpenTelemetry para gente ocupada". Charla   
+        - "OpenTelemetry para gente ocupada". Charla   
 ### 2024
 - Octubre.
     -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
