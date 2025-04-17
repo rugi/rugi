@@ -20,13 +20,15 @@ Actualmente, me desempeño como Solution Architect.
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
-- 2 propuestas enviadas a eventos JAVA.... estamos en espera ;)
+- Julio.
+    - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
+        - "Java y grafos. Iniciemos con Neo4j". Charla.
 
 ## 📢 Participaciones en conferencias:
 ### 2025
 - Marzo.
     - [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
-        - "OpenTelemetry para gente ocupada". Charla   
+        - "OpenTelemetry para gente ocupada". Charla.   
 ### 2024
 - Octubre.
     -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
