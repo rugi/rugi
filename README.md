@@ -24,7 +24,7 @@ Actualmente, me desempeño como Solution Architect.
     - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
         - "Java y grafos. Iniciemos con Neo4j". Charla.
 
-## 📢 Participaciones en conferencias:
+## Participaciones pasadas en conferencias:
 ### 2025
 - Marzo.
     - [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
