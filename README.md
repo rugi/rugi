@@ -22,7 +22,7 @@ Actualmente, me desempeño como Solution Architect.
 ### 2025
 - Junio.
     - [JConf Mex 2025.](https://jconf.mx/#speakers), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
-        - "OpenTelemetry para gente ocupada". Charla.   
+        - "OpenTelemetry para todos". Charla.   
 - Julio.
     - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
         - "Java y grafos. Iniciemos con Neo4j". Charla.
