@@ -16,7 +16,9 @@ Actualmente, me desempeño como Solution Architect.
     - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white), ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Bases de datos:** Relacionales y NoSQL.
-- **Certificaciones:** Oracle Certified, Cloud Developer (OCI), más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
+- **Certificaciones:** Varias.
+
+Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
