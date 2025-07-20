@@ -22,9 +22,7 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
-- Julio.
-    - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
-        - "Java y grafos. Iniciemos con Neo4j". Charla.
+- N/A
 
 ## Participaciones pasadas en conferencias:
 ### 2025
@@ -34,6 +32,13 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 - Junio.
     - [JConf Mex 2025.](https://jconf.mx/#speakers), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
         - "OpenTelemetry para todos". Charla.            
+- Julio.
+    - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
+        - "Java y grafos. Iniciemos con Neo4j". Charla.
+    - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
+        - "OpenTelemetry para todos". Taller 3 horas
+      
+
 ### 2024
 - Octubre.
     -  [JConf MX](https://x.com/javamexico/status/1843388558331261411). Guadalajara, México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
