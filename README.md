@@ -136,7 +136,7 @@ Entre humanos son reflexiones sobre cultura, métodos, tradiciones y reflexiones
     - https://www.oracle.com/lad/technical-resources/articles/java/jmx-guia-perdida-parte4.html
     - https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html    
  
-  Puedes obtener una versión completa en PDF de los primeros artículos de JMS aquí: https://github.com/rugi/javaAldia/tree/main/ext/pdf
+  Puedes obtener una versión completa en PDF de los primeros artículos de JMX aquí: https://github.com/rugi/javaAldia/tree/main/ext/pdf
  
 ## 🎨 Visualizaciones
 - [Evolución de JEPs.](https://miro.com/app/board/uXjVLaAHzYg=/?share_link_id=13560476298)
