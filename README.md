@@ -48,11 +48,18 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
     -  [JConf Guatemala](https://guate-jug.net/jconf2023/archive.html). Cd. de Guatemala, Guatemala  ![Guatemala](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gt.png "GT").
         - "Java y grafos. Iniciemos con Neo4". Charla.           
 
-## 📬 Newsletter
+## 📬 Newsletters
+
+Actualmente mantengo 2 newsletters:
+* <u>Java al día.</u> Temas relacionados con la JVM.
+* <u>Entre humanos.</u> Reflexiones internas que no son necesariamente técnicas pero sí son relacionadas a nuestra área de TI.
+
+
+### Java al dia.
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi [newsletter](https://www.linkedin.com/newsletters/6931281718834335744/). Aquí puedes encontrar las ediciones más recientes:
 
-### 2025
+#### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
 | 📖 | [Sealed Classes. Parte 2.](https://www.linkedin.com/pulse/sealed-classes-parte-2-isaac-ruiz-guerra-jd4ye) | Julio 28, 2025 |
@@ -94,6 +101,13 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Java, la cultura popular y JavaZone.](https://www.linkedin.com/pulse/java-la-cultura-popular-y-javazone-isaac-ruiz-guerra/) | June 15, 2022 |
 | 📖 | [Java. 27 primaveras y las que faltan.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
 | 📖 | [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
+
+### Entre humanos.
+
+#### 2025
+| 📌 | 📖 Artículo | 📅 Fecha |
+|----|-----------|---------|
+| 📖 | [Communitas](https://www.linkedin.com/pulse/communitas-isaac-ruiz-guerra-x9vqe/) | Agosto 8, 2025 |
 
 ## ✍️ Publicaciones
 
