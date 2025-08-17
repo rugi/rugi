@@ -51,8 +51,8 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 ## 📬 Newsletters
 
 Actualmente mantengo 2 newsletters:
-* <u>Java al día.</u> Temas relacionados con la JVM.
-* <u>Entre humanos.</u> Reflexiones internas que no son necesariamente técnicas pero sí son relacionadas a nuestra área de TI.
+* <b>Java al día.</b> Temas relacionados con la JVM.
+* <b>Entre humanos.</b> Reflexiones internas que no son necesariamente técnicas pero sí son relacionadas a nuestra área de TI.
 
 
 ### Java al dia.
@@ -103,7 +103,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
 ### Entre humanos.
-
+Entre humanos son reflexiones sobre cultura, métodos, tradiciones y reflexiones sobre esto de vivir en el mundo de las TI, si te gustan este tipo de contenido puedes subscribirte aqui: https://www.linkedin.com/newsletters/7356841568479182848/
 #### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
