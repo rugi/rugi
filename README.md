@@ -120,8 +120,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
   
 - **<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="80">. Artículos dentro del portal oficial de desarrolladores de Oracle**
     - https://www.oracle.com/lad/technical-resources/articles/java/jmx-guia-perdida-parte4.html
-    - https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html
-    - https://www.oracle.com/lad/technical-resources/articles/java/java-management-extensions.html
+    - https://www.oracle.com/lad/technical-resources/articles/java/jmx-weblogic-mbeans-servers.html    
  
   Puedes obtener una versión completa en PDF de los primeros artículos de JMS aquí: https://github.com/rugi/javaAldia/tree/main/ext/pdf
  
