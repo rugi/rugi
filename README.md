@@ -109,6 +109,9 @@ Entre humanos son reflexiones sobre cultura, métodos, tradiciones y reflexiones
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
 | 📖 | [Communitas](https://www.linkedin.com/pulse/communitas-isaac-ruiz-guerra-x9vqe/) | Agosto 8, 2025 |
+| 📖 | [Temperantia](https://www.linkedin.com/pulse/temperantia-isaac-ruiz-guerra-z1f2e) | Agosto 19, 2025 |
+
+
 
 ## ✍️ Publicaciones
 
