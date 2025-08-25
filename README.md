@@ -6,7 +6,7 @@ Actualmente, me desempeño como Solution Architect.
 
 ## 🚀 Sobre mí
 
-- 💻 **Especialidad:** Programación en Java, integración de sistemas (y equipos de trabajo) y arquitecturas de soluciones.
+- 💻 **Especialidad:** Programación en Java, integración de sistemas (y equipos de trabajo), arquitecturas de soluciones y observabilidad.
 - 🌐 **Experiencia internacional:** He trabajado en diversos proyectos globales, aportando soluciones innovadoras y eficientes.
 - 🎓 **Educación:** Egresado del Instituto Tecnológico del istmo, con una especialidad en la Universitat Oberta de Catalunya.
 
