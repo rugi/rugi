@@ -58,6 +58,7 @@ Actualmente mantengo 2 newsletters:
 * <b>Entre humanos.</b> Reflexiones internas que no son necesariamente técnicas pero sí son relacionadas a nuestra área de TI.
 
 <hr/>
+
 ### Java al dia.
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi [newsletter](https://www.linkedin.com/newsletters/6931281718834335744/). Aquí puedes encontrar las ediciones más recientes:
