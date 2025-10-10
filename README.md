@@ -108,8 +108,10 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
 <hr/>
+
 ### Entre humanos.
 "Entre humanos" son reflexiones sobre cultura, métodos, tradiciones y reflexiones sobre esto de vivir en el mundo de las TI, si te gustan este tipo de contenido puedes subscribirte aqui: https://www.linkedin.com/newsletters/7356841568479182848/
+
 #### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
