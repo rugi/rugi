@@ -6,7 +6,7 @@ Actualmente, me desempeño como Solution Architect.
 
 ## 🚀 Sobre mí
 
-- 💻 **Especialidad:** Programación en Java, integración de sistemas (y equipos de trabajo), arquitecturas de soluciones y observabilidad.
+- 💻 **Especialidad:** Programación del Backend (Java como lenguaje principal), integración de sistemas (y equipos de trabajo), arquitecturas de soluciones y observabilidad.
 - 🌐 **Experiencia internacional:** He trabajado en diversos proyectos globales, aportando soluciones innovadoras y eficientes.
 - 🎓 **Educación:** Egresado del Instituto Tecnológico del istmo, con una especialidad en la Universitat Oberta de Catalunya.
 
@@ -57,7 +57,7 @@ Actualmente mantengo 2 newsletters:
 * <b>Java al día.</b> Temas relacionados con la JVM.
 * <b>Entre humanos.</b> Reflexiones internas que no son necesariamente técnicas pero sí son relacionadas a nuestra área de TI.
 
-
+<hr/>
 ### Java al dia.
 
 Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndote a mi [newsletter](https://www.linkedin.com/newsletters/6931281718834335744/). Aquí puedes encontrar las ediciones más recientes:
@@ -107,6 +107,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Java. 27 primaveras y las que faltan.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 29, 2022 |
 | 📖 | [Java. Mayo y sus eventos.](https://www.linkedin.com/pulse/java-mayo-y-sus-eventos-isaac-ruiz-guerra/) | May 14, 2022 |
 
+<hr/>
 ### Entre humanos.
 "Entre humanos" son reflexiones sobre cultura, métodos, tradiciones y reflexiones sobre esto de vivir en el mundo de las TI, si te gustan este tipo de contenido puedes subscribirte aqui: https://www.linkedin.com/newsletters/7356841568479182848/
 #### 2025
