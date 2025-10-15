@@ -120,6 +120,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Temperantia](https://www.linkedin.com/pulse/temperantia-isaac-ruiz-guerra-z1f2e) | Agosto 19, 2025 |
 | 📖 | [Propositum](https://www.linkedin.com/pulse/propositum-isaac-ruiz-guerra-bvtde/) | Septiembre 02, 2025 |
 | 📖 | [Auctoritas](https://www.linkedin.com/pulse/auctoritas-isaac-ruiz-guerra-u8hse/) | Septiembre 23, 2025 |
+| 📖 | [Correctio](https://www.linkedin.com/pulse/correctio-isaac-ruiz-guerra-3jw7e/) | Octubre 14, 2025 |
 
 
 
