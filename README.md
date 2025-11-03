@@ -66,6 +66,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 #### 2025
 | 📌 | 📖 Artículo | 📅 Fecha |
 |----|-----------|---------|
+| 📖 | [JEP 519 - Compact Object Headers.](https://www.linkedin.com/pulse/java-25-lts-jep-519-compact-object-headers-isaac-ruiz-guerra-gmn0e/) | Noviembre 03, 2025 |
 | 📖 | [Vector API. Parte 2. Un ejemplo ilustrativo, pero antes: java 25.](https://www.linkedin.com/pulse/vector-api-parte-2-un-ejemplo-ilustrativo-pero-antes-java-isaac-mrkme/) | Septiembre 18, 2025 |
 | 📖 | [Vector API. Parte 1. Una instrucción, muchos datos.](https://www.linkedin.com/pulse/vector-api-parte-1-una-instrucci%C3%B3n-muchos-datos-isaac-ruiz-guerra-islme/) | Agosto 25, 2025 |
 | 📖 | [Sealed Classes. Parte 2.](https://www.linkedin.com/pulse/sealed-classes-parte-2-isaac-ruiz-guerra-jd4ye) | Julio 28, 2025 |
