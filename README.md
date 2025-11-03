@@ -25,7 +25,9 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2025
-- N/A
+- [JConf Guatemala 2025.](https://2025.jconf.gt/es/), Guatemala ![Guatemala](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gt.png "GT").
+    - "OpenTelemetry para todos". Charla.
+    - "3 JEPs que debemos conocer". Charla.
 
 ## Participaciones pasadas en conferencias:
 ### 2025
