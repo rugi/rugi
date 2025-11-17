@@ -38,7 +38,6 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 - Julio.
     - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
         - "Java y grafos. Iniciemos con Neo4j". Charla.
-    - [JCONF República Dominicana](https://jconfdominicana.org/), República Dominicana.![DO](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/do.png "DO").
         - "OpenTelemetry para todos". Taller 3 horas
 - Noviembre
     - [JConf Guatemala 2025.](https://2025.jconf.gt/es/), Guatemala ![Guatemala](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gt.png "GT").
