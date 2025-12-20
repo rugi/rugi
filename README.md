@@ -126,6 +126,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Correctio](https://www.linkedin.com/pulse/correctio-isaac-ruiz-guerra-3jw7e/) | Octubre 14, 2025 |
 | 📖 | [Fortitudo](https://www.linkedin.com/pulse/fortitudo-isaac-ruiz-guerra-0uaie/) | Octubre 28, 2025 |
 | 📖 | [Prudentia](https://www.linkedin.com/pulse/prudentia-isaac-ruiz-guerra-baile/) | Noviembre 18, 2025 |
+| 📖 | [Concordia](https://www.linkedin.com/pulse/concordia-isaac-ruiz-guerra-95l4e/) | Diciembre 09, 2025 |
 
 
 
