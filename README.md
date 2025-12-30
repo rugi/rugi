@@ -127,6 +127,7 @@ Mantente al día con mis últimas publicaciones y actualizaciones suscribiéndot
 | 📖 | [Fortitudo](https://www.linkedin.com/pulse/fortitudo-isaac-ruiz-guerra-0uaie/) | Octubre 28, 2025 |
 | 📖 | [Prudentia](https://www.linkedin.com/pulse/prudentia-isaac-ruiz-guerra-baile/) | Noviembre 18, 2025 |
 | 📖 | [Concordia](https://www.linkedin.com/pulse/concordia-isaac-ruiz-guerra-95l4e/) | Diciembre 09, 2025 |
+| 📖 | [Industria](https://www.linkedin.com/pulse/industria-isaac-ruiz-guerra-zjkbc/) | Diciembre 30, 2025 |
 
 
 
