@@ -25,7 +25,7 @@ Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizgue
 
 ## 📢 Próximas participaciones en conferencias:
 ### 2026
-- Febrero.
+- Abril.
     - [KCD Guadalajara 2026.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
         - [Evitando el vendor lock-in en el almacenamiento de tu observabilidad: OpenTelemetry & amigos](https://kcd-guadalajara-2026.sessionize.com/session/1079787). Charla.
 
