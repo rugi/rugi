@@ -26,12 +26,19 @@ Actualmente, me desempeño como Solution Architect.
 
 
 ## 📢 Próximas participaciones en conferencias:
+### 2027
+- Abril.
+    - Pendiente.
+        - Pendiente.
+
+## Participaciones pasadas en conferencias:
+
 ### 2026
 - Abril.
     - [KCD Guadalajara 2026.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
         - [Evitando el vendor lock-in en el almacenamiento de tu observabilidad: OpenTelemetry & amigos](https://kcd-guadalajara-2026.sessionize.com/session/1079787). Charla.
 
-## Participaciones pasadas en conferencias:
+
 ### 2025
 - Marzo.
     - [KCD Guadalajara 2025.](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/), México ![México](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "MX").
