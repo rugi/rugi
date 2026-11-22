@@ -19,7 +19,9 @@ Actualmente, me desempeño como Solution Architect.
 - **Bases de datos:** Relacionales y NoSQL.
 - **Certificaciones:** Varias.
 
-Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
+[![Isaac Guerra on CertDirectory](https://certdirectory.io/badge/isaac-guerra.svg?style=card)](https://certdirectory.io/profile/isaac-guerra?utm_source=github&utm_medium=readme)
+
+* Más detalle en mi perfil de [linkedin](https://www.linkedin.com/in/isaacruizguerra/).
  
 
 
